@@ -39,6 +39,5 @@ Fotos de producto tomadas de fabricantes y distribuidores:
 | Trimble GNSS-Ti Choke Ring | CSDS (distribuidor Trimble) |
 | Kolida NET S10 Mini | Global GPS Systems: imagen del South NET S10 Mini (Kolida es marca de South) |
 | South CR3-G3 | Global GPS Systems (distribuidor South) |
-| Leica AT504 GG | Foto de sitio de la estación EUREF M0SE00ITA (Roma), con la misma antena y domo LEIS |
 
 Las imágenes pertenecen a sus respectivos titulares y se usan solo como referencia visual de cada modelo.
