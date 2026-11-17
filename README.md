@@ -1,6 +1,6 @@
 # Mapa de estaciones REGNA-ROU
 
-Mapa interactivo de las 30 estaciones GNSS de la Red Geodésica Nacional Activa de Uruguay (REGNA-ROU).
+Mapa interactivo de las 31 estaciones GNSS de la Red Geodésica Nacional Activa de Uruguay (REGNA-ROU).
 
 Al tocar una estación se ve:
 
@@ -18,7 +18,7 @@ También se puede abrir `index.html` directamente en el navegador. Es un único 
 
 ## Datos
 
-- **Estaciones:** planilla REGNA-ROU actualizada al 13/11/2026 (coordenadas geodésicas, receptor, antena, ubicación y constelaciones).
+- **Estaciones:** planilla REGNA-ROU actualizada al 16/11/2026 (coordenadas geodésicas, receptor, antena, ubicación y constelaciones).
 - **Límites departamentales y costa:** [Natural Earth](https://www.naturalearthdata.com/), escala 1:10m, de dominio público. Están simplificados para el mapa.
 
 ## Imágenes de los equipos
@@ -37,5 +37,8 @@ Fotos de producto tomadas de fabricantes y distribuidores:
 | Topcon CR-G3 | Hoja de datos de Topcon |
 | Trimble NetR9 | Laser Liquidators |
 | Trimble GNSS-Ti Choke Ring | CSDS (distribuidor Trimble) |
+| Kolida NET S10 Mini | Global GPS Systems: imagen del South NET S10 Mini (Kolida es marca de South) |
+| South CR3-G3 | Global GPS Systems (distribuidor South) |
+| Leica AT504 GG | Foto de sitio de la estación EUREF M0SE00ITA (Roma), con la misma antena y domo LEIS |
 
 Las imágenes pertenecen a sus respectivos titulares y se usan solo como referencia visual de cada modelo.
